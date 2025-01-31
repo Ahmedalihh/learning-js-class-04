@@ -78,12 +78,12 @@
 
 
 
-var age = 25;
-if ((age == 18)) {
-  console.log("allow");
-}else {
-    console.log("not allow")
-}
+// var age = 25;
+// if ((age == 18)) {
+//   console.log("allow");
+// }else {
+//     console.log("not allow")
+// }
 
 // if (condition ) {      //block of statement
 
